@@ -6,7 +6,6 @@ authors = [
     { name = "Simon Jaricot", email = "simon.jaricot@protonmail.com" }
 ]
 dependencies = [
-    "sentinelhub>=3.11.1",
     "notebook>=7.2.2",
     "jupyterlab>=4.2.5",
     "pandas>=2.2.3",
